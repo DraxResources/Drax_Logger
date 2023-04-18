@@ -4,4 +4,5 @@ WARNING!!!!!
 Educational Purposes Only!
 I am not responsible for your actions!
 Make sure to run start.bat first,
-then run DraxLogger.py
+then run DraxLogger.py .
+you will need Python 3.11+
